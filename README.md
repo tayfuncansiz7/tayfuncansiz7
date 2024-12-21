@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Pyhton**
 
-- 👨‍💻 All of my projects are available at [https://tayfuncansiz7.github.io](https://tayfuncansiz7.github.io)
+- 👨‍💻 My portfolio at [https://tayfuncansiz7.github.io](https://tayfuncansiz7.github.io)
 
 - 📫 How to reach me **tayfuncansiz7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tayfuncansiz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tayfuncansiz7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tayfuncansi̇z7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayfuncansi̇z7" height="30" width="40" /></a>
-<a href="https://fb.com/tayfuncansi̇z7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tayfuncansi̇z7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tayfun-cansiz-58a053234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayfuncansi̇z7" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tyfn.cnsz.7?locale=tr_TR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tayfuncansi̇z7" height="30" width="40" /></a>
 <a href="https://instagram.com/tayfuncansiz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tayfuncansiz7" height="30" width="40" /></a>
 </p>
 
