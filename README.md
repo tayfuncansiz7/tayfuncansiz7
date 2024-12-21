@@ -1,5 +1,6 @@
-![Flutter-logo-animation-v1-2](https://github.com/user-attachments/assets/0d43fb8e-892f-4923-b17a-fb824371abe3)
-<h1 align="center">Hi 👋, I'm Tayfun</h1>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0d43fb8e-892f-4923-b17a-fb824371abe3" alt="Flutter Logo Animation" width="600" />
+</div><h1 align="center">Hi 👋, I'm Tayfun</h1>
 <h3 align="center">A passionate Flutter developer from Türkiye</h3>
 <h3 align="center">Leave at the tone!</h3>
 
