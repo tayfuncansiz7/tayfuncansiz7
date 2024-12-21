@@ -1,6 +1,5 @@
-
-<h1 align="cen![Flutter-logo-animation-v1-2](https://github.com/user-attachments/assets/94b44994-a67c-4e50-a13a-5ce6507ffc8d)
-ter">Hi 👋, I'm Tayfun</h1>
+![Flutter-logo-animation-v1-2](https://github.com/user-attachments/assets/0d43fb8e-892f-4923-b17a-fb824371abe3)
+<h1 align="center">Hi 👋, I'm Tayfun</h1>
 <h3 align="center">A passionate Flutter developer from Türkiye</h3>
 <h3 align="center">Leave at the tone!</h3>
 
