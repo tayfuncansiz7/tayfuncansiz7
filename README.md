@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## HOŞGELDİNİZ 👋
+LEAVE AT THE TONE!
 <!--
 **tayfuncansiz7/tayfuncansiz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
