@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a mobile app.**
 
-- 🌱 I’m currently learning **Pyhton**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 My portfolio at [https://tayfuncansiz7.github.io](https://tayfuncansiz7.github.io)
 
