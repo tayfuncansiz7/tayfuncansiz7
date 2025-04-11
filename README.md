@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0d43fb8e-892f-4923-b17a-fb824371abe3" alt="Flutter Logo Animation" width="600" />
+  <img src="[https://github.com/user-attachments/assets/0d43fb8e-892f-4923-b17a-fb824371abe3](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fdevrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn&psig=AOvVaw3VysDfF-eE1ITqZzYF24Jb&ust=1744481986873000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCIinkuvL0IwDFQAAAAAdAAAAABAK)" alt="Flutter Logo Animation" width="600" />
 </div><h1 align="center">Hi 👋, I'm Tayfun</h1>
 <h3 align="center">A passionate Flutter developer from Türkiye</h3>
 <h3 align="center">Leave at the tone!</h3>
